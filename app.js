@@ -20,7 +20,6 @@ const showTypeOf = function (data) {
 }
 
 
-
 // Функция возвращает сумму всех обязательных расходов за месяц
 const getExpensesMonth = function() {
     return amount1 + amount2;
